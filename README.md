@@ -1,5 +1,5 @@
-## 👋 Olá, sou William
-#### Desenvolvedor web
+## 👋 Hi, i'm William
+#### Web developer
 
 <div align="center"><br> 
   <a href="https://github.com/will-dantas">
