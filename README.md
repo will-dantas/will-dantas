@@ -7,7 +7,12 @@
 
 - ℹ️ More at [linkedin](https://www.linkedin.com/in/william-dantas/)
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<div align="left"><br> 
+  <a href="https://github.com/will-dantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-dantas&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+<br><br><br><br><br><br><br>
 
 ## Contact
 
