@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **JavaScript, React, React Native, Node.JS**
 
+- 📃 My [portifolio](https://william-dantas.vercel.app/)
+
 - ℹ️ More at [linkedin](https://www.linkedin.com/in/william-dantas/)
 
 <div align="left"><br> 
